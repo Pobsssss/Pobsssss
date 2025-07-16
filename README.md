@@ -1,22 +1,10 @@
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-</head>
-<body>
 <p align="center">
   <img alt="Header" src="./header.png" />
 </p>
 
 ## 🌐 Social Links:
-<div class="container">
-  <div class="row">
-    <div class="col-4 d-flex align-items-center gap-10">
-     [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonel-pobre-053b32203/) 
-    </div>
-  </div>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonel-pobre-053b32203/) 
 
 ## 💻 Tech Stack:
 <div class="container">
@@ -32,8 +20,7 @@
     </div>
   </div>
 </div>
-</body>
-</html>
+
 
 
 
