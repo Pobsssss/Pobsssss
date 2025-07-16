@@ -7,4 +7,4 @@
 
 ## 💻 Tech-Stack:
 https://img.shields.io/badge/C%23-Green
-![Net](https://img.shields.io/badge/NET-blue?logo=dotnet&logoColor=black)
+(https://img.shields.io/badge/NET-blue?logo=dotnet&logoColor=black)
