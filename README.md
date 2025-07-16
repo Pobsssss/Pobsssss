@@ -4,7 +4,15 @@
 </p>
 
 ## 🌐 Social Links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonel-pobre-053b32203/) 
+<div class="container">
+  <div class="row">
+    <div class="col-4 d-flex align-items-center gap-10">
+     <a href="https://www.linkedin.com/in/leonel-pobre-053b32203/" target="_blank">
+          <img alt="LinkedIn" src="./LinkedIn.png" width="36" height="36" title="My LinkedIn Profile" />
+    </a>
+    </div>
+  </div>
+</div>
 
 ## 💻 Tech Stack:
 <div class="container">
