@@ -3,6 +3,14 @@
   <img alt="Header" src="./header.png" />
 </p>
 
+## 👨🏻‍💻 About Me
+  <h4 >
+    Hi, I am Leonel M. Pobre
+  </h4>
+
+<br/>
+<br/>
+
 ## 🌐 Social Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonel-pobre-053b32203/) 
 
@@ -20,13 +28,3 @@
     </div>
   </div>
 </div>
-
-
-
-
-
-
-
-
- 
-
