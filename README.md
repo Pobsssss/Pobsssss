@@ -1,6 +1,7 @@
 
 <p align="center">
-  <img alt="Header" src="./header.png" />
+<!--   <img alt="Header" src="./header.png" /> -->
+  <h3>SOFTWARE DEVELOPER</h3>
 </p>
 
 ## 👨🏻‍💻 About Me
