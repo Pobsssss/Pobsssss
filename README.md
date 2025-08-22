@@ -22,8 +22,7 @@
       <img alt="MySQL" src="./mysql.png" width="36" height="36" title="My SQL" />
       <img alt="SQL-Server" src="./sql-server.png" width="36" height="36" title="Microsoft SQL Server" />
       <img alt="Visual Studio" src="./visual-basic.png" width="36" height="36" title="Visual Studio"/>
-      <img alt="VS Code" src="./Visual Studio Code (VS Code).png" width="36" height="36" title="Visual Studio Code"/>
-        
+      <img alt="VS Code" src="./Visual Studio Code (VS Code).png" width="36" height="36" title="Visual Studio Code"/>        
     </div>
   </div>
 </div>
